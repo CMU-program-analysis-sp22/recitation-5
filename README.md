@@ -1,8 +1,7 @@
-02/14/20 Recitation
+02/18/20 Recitation
 ==================
 
-17-355/17-665/17-819: Program Analysis (Spring 2020)
+17-355/17-665/17-819: Program Analysis (Spring 2022)
 ----------------------------------------------------
 
-This repository is a recitation template. See the [notes](notes.pdf) for
-directions.
+This repository is a recitation template.
